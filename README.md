@@ -8,16 +8,11 @@ A data-driven analysis of top travel spots in India to uncover trends in tourist
 2. Explored key trends in Google ratings, number of reviews, entrance fees, and popularity.
 3. Aimed to generate actionable insights to assist travelers and tourism stakeholders.
 
-
-## Dataset :
-
-
 ## Insights :
 1. Most highly-rated destinations also have higher review counts, indicating both quality and popularity.
 2. Several low-cost destinations offer excellent experiences (high ratings at low entrance fees).
 3. Tourist interest tends to cluster around heritage sites and natural attractions.
 4. Some destinations with high entrance fees do not necessarily offer better-rated experiences.
-
 
 ## Recommendation :
 1. Travelers can prioritize destinations that offer a high rating-to-cost ratio for maximum value.
